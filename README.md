@@ -1,4 +1,4 @@
-# DR-detection-using-DCNN And Some changes
+# DR-detection-using-DCNN
 
 In this Project we classify the different stages of Diabetic Ratinopathy using DCNN based InceptionV3 with the following result
 
